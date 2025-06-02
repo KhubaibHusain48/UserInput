@@ -1,4 +1,4 @@
-Here's a `README.md` content for your Java program:
+
 
 ---
 
